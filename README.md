@@ -1,4 +1,4 @@
-# visual-similarity
+# Visual similarity tool
 
 The present project is based in the Paperspace Blog in the following link: https://blog.paperspace.com/autoencoders-and-visual-similarity/.
 
