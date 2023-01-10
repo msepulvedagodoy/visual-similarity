@@ -10,6 +10,6 @@ We will create a visual similarity tool for search similar images and reduce the
 <details open>
 <summary>Experiments</summary>
 
-- [Training]() 🌟
+- [Training](https://github.com/msepulvedagodoy/visual-similarity/wiki/Training-and-inference-with-Colab) 🌟
 
 </details>
